@@ -1,0 +1,9 @@
+[submodule "cli"]
+	path = cli
+	url = https://github.com/T-Tavares/m4-cli
+[submodule "backend"]
+	path = backend
+	url = https://github.com/T-Tavares/m4-backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/T-Tavares/m4-frontend
